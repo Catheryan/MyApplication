@@ -3,7 +3,7 @@ package com.yzh.itteam.data;
 /**
  * 数据传输Bean（继承DTO）
  * 
- * @author 曾繁添
+ * @author yzh
  * @version 1.0
  * @param <V>
  * @param <K>

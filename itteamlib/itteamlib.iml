@@ -105,6 +105,7 @@
     <orderEntry type="library" exported="" name="badidu-loc-sdk_4.2" level="project" />
     <orderEntry type="library" exported="" name="baidu-push-service-4.0.0" level="project" />
     <orderEntry type="library" exported="" name="roboguice-2.0" level="project" />
+    <orderEntry type="library" exported="" name="gson-2.3.1" level="project" />
     <orderEntry type="library" exported="" name="zxing-android-core-3.1.0" level="project" />
     <orderEntry type="library" exported="" name="nineoldandroids-2.4.0" level="project" />
     <orderEntry type="library" exported="" name="sharesdk-twitter-2.3.11" level="project" />
