@@ -31,6 +31,7 @@ public class HomeFragment extends BaseFragmentV4 implements ISuccessAndFailListe
         JsonModelHome jsonModelHome =new JsonModelHome(getContext());
         jsonModelHome.addSuccessAndFailListener(this);
         jsonModelHome.getEngineInfo();
+
     }
 
     @Override
